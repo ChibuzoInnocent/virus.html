@@ -1,0 +1,16 @@
+h1{
+    text-transform: uppercase;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 40;
+}
+p{
+    color: brown;
+}
+h2{
+    background-color: burlywood;
+    color: white;
+}
